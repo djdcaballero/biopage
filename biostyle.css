@@ -1,0 +1,93 @@
+h1{
+    font-family: 'Asap', sans-serif;
+    font-size: 100px;
+    text-shadow: 5px 5px #000000;
+    color: white;
+}
+p {
+    margin: 0px auto;
+}
+
+ul.edu {
+    display: inline-block;
+    text-align: left;
+}
+
+ul.skill {
+    display: inline-block;
+    text-align: left;
+    list-style-type: none; 
+    *display: inline;
+}
+
+ul.hob {
+    display: inline-block;
+    text-align: left;
+    list-style-type: none; 
+    *display: inline;
+}
+
+ul.links > li {
+    display: inline-block;
+    list-style: none;
+}
+
+hr{
+    max-width: 50%;
+}
+
+nav{
+    display: flex;
+}
+
+
+.body{
+    background-image: linear-gradient(to left, rgb(105, 32, 32) , black);
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.welcome{
+    text-align: center;
+    text
+}
+
+.dp {
+    max-width: 45%;
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-
+}
+
+.intro {
+    text-align: center;
+    flex-direction: column;
+    color: white;
+}
+
+.name {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.educskill {
+    font-size: 20px;
+    flex-direction: row;
+}
+
+.socmed {
+    max-width: 50%;
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    width: 30px;
+    height: 30px;
+}
+
+
